@@ -1,0 +1,133 @@
+======================================================================
+              Marvellous Infosystems
+              AI Mock Interview Agent
+              Generated Interview Report
+======================================================================
+
+Author : Piyush Manohar Khairnar
+Date   : 10/05/2026
+======================================================================
+                  STUDENT REPORT
+======================================================================
+
+
+============================================================
+              AI Mock Interview Report
+============================================================
+
+Author       : Parag Kiran Udgirkar
+Date         : 10/05/2026
+
+Student Name : Parag Kiran Udgirkar
+
+Total Questions Asked : 2
+Total Score           : 16
+Average Score         : 8.00/10
+
+============================================================
+                    Overall Performance
+============================================================
+Excellent performance.
+Student has strong technical clarity and communication skills.
+
+============================================================
+              Detailed Question-wise Analysis
+============================================================
+
+------------------------------------------------------------
+Question Number : 1
+
+Topic    : Python
+
+Question :
+Explain the difference between list, tuple and set in Python.
+
+------------------------------------------------------------
+Student Answer:
+------------------------------------------------------------
+In Python, a list is an ordered and mutable collection that allows duplicate values, meaning you can change, add, or remove elements after creation. It is defined using square brackets []. A tuple is also an ordered collection, but it is immutable, so once created, its values cannot be modified; it also allows duplicates and is defined using parentheses (). A set is an unordered collection of unique elements, which means it does not allow duplicates and does not support indexing; it is defined using curly braces {}. In short, lists are changeable, tuples are fixed, and sets store only unique items without order.
+
+------------------------------------------------------------
+Extracted Score:
+------------------------------------------------------------
+8/10
+
+------------------------------------------------------------
+LLM Evaluation:
+------------------------------------------------------------
+Score: 8 out of 10
+
+Evaluation: Partially Correct
+
+The student has correctly identified the main differences between list, tuple, and set in Python. They have also provided definitions for each data structure using square brackets [], parentheses (), and curly braces {}. However, there are a few areas where they could improve.
+
+Missing Points:
+
+* The student did not mention that sets do not preserve insertion order, which is an important aspect of set behavior.
+* There was no explicit mention of the use cases or scenarios where one might choose to use each data structure. For example, lists are often used when you need to modify the collection frequently, while tuples are better suited for situations where immutability is crucial.
+
+Improved Answer:
+
+"In Python, a list is an ordered and mutable collection that allows duplicate values. It's defined using square brackets [] and is suitable for scenarios where you need to modify the collection frequently. A tuple is also an ordered collection, but it's immutable, meaning its values cannot be changed after creation. Tuples allow duplicates and are defined using parentheses (). They're ideal when immutability is crucial or when you want to ensure that the data remains unchanged. A set, on the other hand, is an unordered collection of unique elements. It does not support indexing and is defined using curly braces {}. Sets are perfect for storing unique items without worrying about order or duplicate values."
+
+Interview Suggestion:
+
+To improve interview performance, I would suggest that students prepare specific examples or scenarios where each data structure (list, tuple, set) might be used effectively. This will help them to better articulate the strengths and weaknesses of each data type and demonstrate their understanding in a more practical context.
+
+------------------------------------------------------------
+Question Number : 2
+
+Topic    : OOP
+
+Question :
+Explain the four pillars of Object Oriented Programming.
+
+------------------------------------------------------------
+Student Answer:
+------------------------------------------------------------
+The four pillars of Object-Oriented Programming (OOP) are Encapsulation, Abstraction, Inheritance, and Polymorphism. Encapsulation is the process of combining data and methods into a single unit called a class and restricting direct access to some components, which helps in data protection and security. Abstraction means hiding the internal implementation details and showing only the essential features to the user, reducing complexity and making the system easier to use. Inheritance allows one class to acquire the properties and behaviors of another class, promoting code reusability and establishing a relationship between parent and child classes. Polymorphism means “many forms,” where the same method or function can behave differently depending on the object or context, improving flexibility and extensibility of the program.
+
+------------------------------------------------------------
+Extracted Score:
+------------------------------------------------------------
+8/10
+
+------------------------------------------------------------
+LLM Evaluation:
+------------------------------------------------------------
+Here's the evaluation:
+
+**Score: 8 out of 10**
+
+**Evaluation:** Correct
+
+The student has correctly identified the four pillars of Object-Oriented Programming (OOP) as Encapsulation, Abstraction, Inheritance, and Polymorphism. They have also provided a brief explanation for each pillar, which shows their understanding of the concepts.
+
+**Missing Points:**
+
+* The student could have elaborated more on how encapsulation helps in data protection and security.
+* There is no mention of composition as a form of inheritance (although this is not essential to include in an answer about the four pillars).
+
+**Improved Answer:**
+
+The four pillars of Object-Oriented Programming are Encapsulation, Abstraction, Inheritance, and Polymorphism. Encapsulation helps protect data by hiding it from direct access, while abstraction reduces complexity by showing only essential features to users. Inheritance allows one class to inherit properties and behaviors from another, promoting code reusability. Polymorphism enables methods or functions to behave differently depending on the object or context, improving flexibility.
+
+**Interview Suggestion:**
+
+To improve interview performance, it's essential to not only know the concepts but also be able to provide specific examples or scenarios where each pillar is applied. For instance, you could have asked the student to give a real-world example of when encapsulation would help protect data or how inheritance would enable code reusability in a particular situation. This shows that you're thinking critically about the concepts and can apply them effectively.
+
+
+============================================================
+                Report Summary
+============================================================
+
+Generated By :
+AI_Agent
+
+============================================================
+
+
+======================================================================
+Generated By : Marvellous_SmartHire AI_Agent
+Creator      : Marvellous Infosystems
+======================================================================

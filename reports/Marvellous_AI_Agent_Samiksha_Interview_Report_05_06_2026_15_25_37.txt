@@ -1,0 +1,172 @@
+======================================================================
+              Marvellous Infosystems
+              AI Mock Interview Agent
+              Generated Interview Report
+======================================================================
+
+Author : Piyush Manohar Khairnar
+Date   : 10/05/2026
+======================================================================
+                  STUDENT REPORT
+======================================================================
+
+
+============================================================
+              AI Mock Interview Report
+============================================================
+
+Author       : Parag Kiran Udgirkar
+Date         : 10/05/2026
+
+Student Name : Samiksha
+
+Total Questions Asked : 3
+Total Score           : 8
+Average Score         : 2.67/10
+
+============================================================
+                    Overall Performance
+============================================================
+Needs improvement.
+Student should start with fundamentals and practice more interview questions.
+
+============================================================
+              Detailed Question-wise Analysis
+============================================================
+
+------------------------------------------------------------
+Question Number : 1
+
+Topic    : Python
+
+Question :
+Explain the difference between list, tuple and set in Python.
+
+------------------------------------------------------------
+Student Answer:
+------------------------------------------------------------
+Ordered and mutable collection that allows duplicates; Tuple: Ordered and immutable collection that allows duplicates; Set: Unordered collection that stores only unique elements.
+
+------------------------------------------------------------
+Extracted Score:
+------------------------------------------------------------
+6/10
+
+------------------------------------------------------------
+LLM Evaluation:
+------------------------------------------------------------
+Here's my evaluation:
+
+Score: 6 out of 10
+
+Evaluation: Partially correct
+
+The student has correctly identified that lists are ordered and mutable, tuples are ordered and immutable, and sets are unordered. However, there is an important nuance missing in the answer.
+
+Missing Points:
+
+* The student did not mention that lists can contain duplicate elements, whereas tuples and sets cannot.
+* The statement "Ordered and mutable collection that allows duplicates" is actually describing a list, but it's not clear which data structure this description belongs to.
+
+Improved Answer:
+
+In Python, there are three main types of collections: lists, tuples, and sets. A list is an ordered, mutable collection that can contain duplicate elements. This means you can add or remove items from the list as needed. For example, `[1, 2, 3]` is a list. A tuple is also an ordered collection, but it's immutable, meaning its contents cannot be changed once it's created. Like lists, tuples can contain duplicate elements. An example of a tuple is `(1, 2, 3)`. A set, on the other hand, is an unordered collection that only stores unique elements. This means if you try to add a duplicate item to a set, it will be ignored.
+
+Interview Suggestion:
+
+To improve your interview performance, focus on providing clear and concise explanations of each data structure's properties and limitations. Use simple language and examples to help illustrate your points. Additionally, try to anticipate potential follow-up questions based on the topic and be prepared to provide more details or clarifications as needed.
+
+------------------------------------------------------------
+Question Number : 2
+
+Topic    : OOP
+
+Question :
+Explain the four pillars of Object Oriented Programming.
+
+------------------------------------------------------------
+Student Answer:
+------------------------------------------------------------
+loops  
+
+------------------------------------------------------------
+Extracted Score:
+------------------------------------------------------------
+0/10
+
+------------------------------------------------------------
+LLM Evaluation:
+------------------------------------------------------------
+Score: 0 out of 10
+
+Evaluation: Incorrect
+
+The student's answer, "loops," does not relate to the four pillars of Object-Oriented Programming (OOP). The correct answer would include concepts such as Encapsulation, Abstraction, Inheritance, and Polymorphism.
+
+Missing Points:
+* Encapsulation refers to the idea that an object should hide its internal state and only expose necessary information through public methods.
+* Abstraction is about showing essential features while hiding non-essential details.
+* Inheritance allows one class to inherit properties from another class.
+* Polymorphism enables objects of different classes to respond to the same method call.
+
+Improved Answer:
+The four pillars of Object-Oriented Programming (OOP) are Encapsulation, Abstraction, Inheritance, and Polymorphism. Encapsulation helps hide an object's internal state and only expose necessary information through public methods. Abstraction focuses on showing essential features while hiding non-essential details. Inheritance enables one class to inherit properties from another class, promoting code reusability. Polymorphism allows objects of different classes to respond to the same method call, making programs more flexible.
+
+Interview Suggestion:
+To improve interview performance, it is crucial to thoroughly review the OOP concepts and their relationships. Practice explaining these fundamental ideas clearly and concisely, using simple language and relatable examples.
+
+------------------------------------------------------------
+Question Number : 3
+
+Topic    : Machine Learning
+
+Question :
+What is the difference between supervised learning and unsupervised learning?
+
+------------------------------------------------------------
+Student Answer:
+------------------------------------------------------------
+is a different
+
+------------------------------------------------------------
+Extracted Score:
+------------------------------------------------------------
+2/10
+
+------------------------------------------------------------
+LLM Evaluation:
+------------------------------------------------------------
+Score: 2 out of 10
+
+Evaluation: Incorrect
+
+The student's answer is "is a different", which does not provide any meaningful information about the difference between supervised learning and unsupervised learning. A correct answer would explain that supervised learning involves training a model on labeled data to make predictions, whereas unsupervised learning involves discovering patterns or relationships in unlabeled data.
+
+Missing Points:
+
+* The student did not mention the key characteristics of supervised and unsupervised learning.
+* There was no attempt to provide examples or illustrate the differences between the two types of machine learning.
+
+Improved Answer:
+
+Supervised learning is a type of machine learning where we train a model on labeled data, meaning that each example in the dataset has a corresponding target or response variable. The goal of supervised learning is to use this labeled data to make predictions on new, unseen data. On the other hand, unsupervised learning involves training a model on unlabeled data and discovering patterns or relationships within the data without any prior knowledge of the target variable. Examples of supervised learning include image classification (e.g., recognizing cats vs dogs) and speech recognition, while clustering and dimensionality reduction are examples of unsupervised learning.
+
+Interview Suggestion:
+
+To improve your interview performance, make sure to provide specific details and examples to support your answers. Avoid generic or vague responses, as they may not demonstrate a thorough understanding of the topic. Instead, focus on providing concrete explanations and using relevant terminology to illustrate your points.
+
+
+============================================================
+                Report Summary
+============================================================
+
+Generated By :
+AI_Agent
+
+============================================================
+
+
+======================================================================
+Generated By : Marvellous_SmartHire AI_Agent
+Creator      : Marvellous Infosystems
+======================================================================

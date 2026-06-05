@@ -1,6 +1,6 @@
-######################
+####################################
 # SmartHire AI Agent #
-######################
+####################################
 
 ## 📌 Project Overview
 SmartHire AI Agent is a text-based AI Mock Interview System that conducts technical interviews, evaluates answers using a locally running LLM (Llama3 via Ollama), and generates a detailed performance report.
